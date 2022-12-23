@@ -1,3 +1,5 @@
+![red](https://user-images.githubusercontent.com/101992391/209248080-38d5aee6-1ed3-4fff-bf45-5edc8834aef5.png)
+
 ## CURT - Embedded Systems SUB-Team Repo :computer:
 ***Cairo University Racing Team*** is one of the most popular and challenging racing teams in the **MENA region**:earth_africa:. Participates every year in **Formula student competition**, a design competition first held in 1979 by the Society of Automotive Engineers (SAE) and is now organized by many organizations all over the world like IMechE- UK. 
 Over 100 teams compete with self-made cars for the best in the world title and the participating cars are either combustion, electrical, or self-driving.
@@ -5,7 +7,10 @@ Over 100 teams compete with self-made cars for the best in the world title and t
 To win such competition your team needs various students from different fields, one of them is the ***EEST*** Embedded Systems Sub-team:busts_in_silhouette:.
 
 
+
+
 intro
+
 
 
 
